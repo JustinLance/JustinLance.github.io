@@ -3,19 +3,11 @@
 ## 1.购买域名和空间（虚拟主机/VPS/服务器） ##
 
 - 域名： 推荐 Go Daddy 等国外的注册商，方便迁移
-		
-		www.code1024.win
-		(阿里云，即万网 account：justin_lance  password: 120961319huilai@)
-			原DNS：dns9.hichina.com
-			现DNS：
 
 - 空间：  
 	- 免费空间：如 Github Pages、GitCafe
 
 	- 收费空间：如 阿里云、主机公园等
-	
-			老薛主机
-			（account： 191576208@qq.com  password: aa191576208）
 
 - 小技巧：
 	- 如何查看网站主机空间：
